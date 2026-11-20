@@ -5,7 +5,7 @@ Passionate DevOps Engineer with hands-on experience in building automated CI/CD 
 
 💼 Professional Experience
 
-1.FinanceMe DevOps Certification Project
+1. FinanceMe DevOps Certification Project
 - Developed a Mavenized microservice using Spring Boot and H2 database.
 - Implemented CI/CD using AWS, Git, Maven, Jenkins, Docker, Ansible, Selenium, Terraform, Prometheus, and Grafana.
 - Automated application build and deployment processes.
@@ -27,6 +27,7 @@ Passionate DevOps Engineer with hands-on experience in building automated CI/CD 
 - Cloud Platforms: AWS (EC2, S3, VPC, EKS)
 - Programming & Scripting: Bash
 - Monitoring & Logging: Prometheus, Grafana
+  
 📫 Contact
 - Email: skandakumar1992@gmail.com
 - LinkedIn: https://www.linkedin.com/in/skanda-kumar-00014a136/
